@@ -15,7 +15,7 @@ else if(ch>='0' && ch<='9')
 }
 else
 {
-   printf("The character '%c' is a special character");
+   printf("The character '%c' is a special character",ch);
 }
     return 0;
 }
